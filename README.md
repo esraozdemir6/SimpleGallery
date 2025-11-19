@@ -21,7 +21,6 @@ SimpleGallery/
 
 1. **Clone the Repository**
 git clone https://github.com/esraozdemir6/SimpleGallery.git
-cd SimpleGallery
 
 2. **Install Dependencies**
 npm install
